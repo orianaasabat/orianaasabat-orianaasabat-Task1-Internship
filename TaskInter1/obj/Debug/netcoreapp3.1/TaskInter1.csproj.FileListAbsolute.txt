@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TaskInter1\TaskInter1\obj\Debug\netcoreapp3.1\TaskInter1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TaskInter1\TaskInter1\obj\Debug\netcoreapp3.1\TaskInter1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskInter1\TaskInter1\obj\Debug\netcoreapp3.1\TaskInter1.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskInter1\TaskInter1\obj\Debug\netcoreapp3.1\TaskInter1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskInter1\TaskInter1\bin\Debug\netcoreapp3.1\TaskInter1.deps.json
+C:\Users\User\source\repos\TaskInter1\TaskInter1\bin\Debug\netcoreapp3.1\TaskInter1.dll
+C:\Users\User\source\repos\TaskInter1\TaskInter1\bin\Debug\netcoreapp3.1\TaskInter1.pdb
+C:\Users\User\source\repos\TaskInter1\TaskInter1\obj\Debug\netcoreapp3.1\TaskInter1.dll
+C:\Users\User\source\repos\TaskInter1\TaskInter1\obj\Debug\netcoreapp3.1\TaskInter1.pdb
